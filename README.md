@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/groot737/order-summary-component](https://github.com/groot737/order-summary-component)
-- Live Site URL: [https://groot737.github.io/order-summary-component/](https://groot737.github.io/order-summary-component/)
+- Live Site URL: [https://groot737.github.io/order-summary-component/](https://groot737.github.io/order-summary-component/))
 
 ## My process
 
