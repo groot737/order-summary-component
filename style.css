@@ -13,6 +13,7 @@ body {
     height: 437px;
     background-repeat: no-repeat;
     background-image: url(./images/pattern-background-desktop.svg);
+    background-size: 100%;
 }
 /*--- card styling ----*/
 .card{
